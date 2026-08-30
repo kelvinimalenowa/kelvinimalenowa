@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Kelvin 👋
 
-<!--
-**kelvinimalenowa/kelvinimalenowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web development. Making sense of life through tech. Undisputed Celtics fan.
 
-Here are some ideas to get you started:
+## 👨🏾‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Boston based developer
+- 🌱 Currently working with JavaScript, HTML, CSS, Node.js, and Git
+- 🏗️ Building tech to help small businesses and independent professionals operate and scale
+- 📚 Always learning, building, and improving
+
+## 📫 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/kelvin-imalenowa/]
+- Portfolio: [https://kelvinimalenowa.my.canva.site/portfolio]
