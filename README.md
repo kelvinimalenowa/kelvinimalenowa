@@ -1,6 +1,6 @@
 # Hey, I'm Kelvin 👋
 
-Full-stack web development. Making sense of life through tech. Undisputed Celtics fan.
+Full-stack web development. Making sense of life through tech. Undisputed Celtics fan. 🍀
 
 ## 👨🏾‍💻 About Me
 
