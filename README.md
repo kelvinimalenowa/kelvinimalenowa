@@ -5,7 +5,7 @@ Full-stack web development. Making sense of life through tech. Undisputed Celtic
 ## 👨🏾‍💻 About Me
 
 - 📍 Boston based developer
-- 💻 Currently working with JavaScript, HTML, CSS, Node.js, and Git
+- 💻 Currently working with JavaScript, HTML, CSS, Node.js, and React
 - 🏗️ Building tech to help small businesses and independent professionals operate and scale
 - 📚 Always learning, building, and improving
 
