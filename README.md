@@ -12,4 +12,4 @@ Full-stack web development. Making sense of life through tech. Undisputed Celtic
 ## 📫 Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/kelvin-imalenowa/]
-- Portfolio: [https://kelvinimalenowa.my.canva.site/portfolio]
+- Portfolio: [https://kelvinimalenowa.netlify.app/]
