@@ -4,6 +4,7 @@
 
 Full-stack web developer. Making sense of life through tech. Undisputed Celtics fan. 🍀
 
+
 ---
 
 ## 👨🏾‍💻 What I'm Building
@@ -18,6 +19,7 @@ I'm especially interested in building technology that:
 - Uses data and AI to solve practical problems
 
 I'm currently expanding further into **backend and full-stack development** while taking on increasingly complex applications.
+
 
 ---
 
@@ -60,9 +62,12 @@ I'm currently expanding further into **backend and full-stack development** whil
 
 Take a look through my repositories to see what I've been building as I continue growing as an engineer.
 
-🌐 **Portfolio:** [View My Portfolio](YOUR-PORTFOLIO-URL)
+🌐 **Portfolio:** [View My Portfolio](https://kelvin.staticdomains.app)
 
 💼 **LinkedIn:** [Connect With Me](https://www.linkedin.com/in/kelvin-imalenowa)
+
+📅 **Calendly** [Book a meeting](https://calendly.com/imalenowa)
+
 
 ---
 
