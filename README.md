@@ -58,7 +58,7 @@ I'm currently expanding further into **backend and full-stack development** whil
 
 ---
 
-## 🚀 Check Out My Work
+## 🔗 Let's Connect
 
 Take a look through my repositories to see what I've been building as I continue growing as an engineer.
 
