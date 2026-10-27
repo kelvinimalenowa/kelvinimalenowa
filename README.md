@@ -62,11 +62,11 @@ I'm currently expanding further into **backend and full-stack development** whil
 
 Take a look through my repositories to see what I've been building as I continue growing as an engineer.
 
-🌐 **Portfolio:** [View My Portfolio](https://kelvin.staticdomains.app)
+🌐 [**Portfolio**](https://kelvin.staticdomains.app)
 
-💼 **LinkedIn:** [Connect With Me](https://www.linkedin.com/in/kelvin-imalenowa)
+💼 [**LinkedIn**](https://www.linkedin.com/in/kelvin-imalenowa)
 
-📅 **Calendly** [Book a meeting](https://calendly.com/imalenowa)
+📅 [**Calendly**](https://calendly.com/imalenowa)
 
 
 ---
