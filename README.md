@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kelvin 👋🏾</h1>
+<h1 align="center">Hey, I'm Kelvin 👋🏿</h1>
 
 <p align="center">
   <strong>Software engineer · Greater Boston</strong><br>
@@ -40,7 +40,7 @@
   🎧 Music &nbsp; · &nbsp; 🍀 Celtics &nbsp; · &nbsp; 🎮 Gaming &nbsp; · &nbsp; 🎨 Design &nbsp; · &nbsp; 🥾 Hiking
 </p>
 
-<h2 align="center">🤝 Let's connect</h2>
+<h2 align="center">🤝🏿 Let's connect</h2>
 
 <p align="center"><strong>Let's build something useful.</strong></p>
 
