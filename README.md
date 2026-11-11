@@ -1,34 +1,53 @@
-# Hey, I'm Kelvin 👋🏾
+<h1 align="center">Hey, I'm Kelvin 👋🏾</h1>
 
-I'm a **software engineer in Greater Boston**. I build full-stack web apps that are useful, thoughtful, and easy to use.
-
-![Kelvin’s circular color ASCII portrait beside a terminal-style software engineer profile.](./assets/terminal-header.svg)
-
-## 🛠️ What I build with
-
-<p>
-  <img src="./assets/stack/javascript.svg" alt="JavaScript" title="JavaScript" width="42" height="42">
-  <img src="./assets/stack/html5.svg" alt="HTML5" title="HTML5" width="42" height="42">
-  <img src="./assets/stack/css3.svg" alt="CSS3" title="CSS3" width="42" height="42">
-  <img src="./assets/stack/nodejs.svg" alt="Node.js" title="Node.js" width="42" height="42">
-  <img src="./assets/stack/express.svg" alt="Express" title="Express" width="42" height="42">
-  <img src="./assets/stack/mongodb.svg" alt="MongoDB" title="MongoDB" width="42" height="42">
-  <img src="./assets/stack/mongoose.svg" alt="Mongoose" title="Mongoose" width="42" height="42">
-  <img src="./assets/stack/git.svg" alt="Git" title="Git" width="42" height="42">
-  <img src="./assets/stack/github.svg" alt="GitHub" title="GitHub" width="42" height="42">
-  <img src="./assets/stack/vscode.svg" alt="VS Code" title="VS Code" width="42" height="42">
+<p align="center">
+  <strong>Software engineer · Greater Boston</strong><br>
+  Building full-stack web apps that are useful, thoughtful, and easy to use.
 </p>
 
-**JavaScript · HTML · CSS · Node.js · Express · MongoDB · Mongoose · Git · GitHub · VS Code**
+<p align="center">
+  <img src="./assets/terminal-header.svg" alt="Kelvin’s circular color ASCII portrait beside a terminal-style software engineer profile." width="100%">
+</p>
 
-I also work with **EJS, Passport, and REST APIs**. Right now, I'm building **Web Seek**, a prospecting tool for freelance developers.
+<h2 align="center">🛠️ What I build with</h2>
 
-## 🎧 Beyond the keyboard
+<p align="center">
+  <img src="./assets/stack/javascript.svg" alt="JavaScript" title="JavaScript" width="44" height="44">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/html5.svg" alt="HTML" title="HTML" width="44" height="44">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/css3.svg" alt="CSS" title="CSS" width="44" height="44">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/nodejs.svg" alt="Node.js" title="Node.js" width="44" height="44">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/express.svg" alt="Express" title="Express" width="44" height="44">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/mongodb.svg" alt="MongoDB" title="MongoDB" width="44" height="44">
+</p>
 
-Music is always in the rotation, whether I'm discovering something new or revisiting a favorite. I'm a Celtics fan, a gamer, and into design and creative technology. When I want a change of pace, I like getting outside for a hike.
+<p align="center">
+  <strong>JavaScript · HTML · CSS · Node.js · Express · MongoDB</strong>
+</p>
 
-## 🤝 Let's connect
+<p align="center">
+  Also working with Mongoose, EJS, Passport, and REST APIs.<br>
+  Currently building <strong>Web Seek</strong>, a prospecting tool for freelance developers.
+</p>
 
-**Let's build something useful.**
+<h2 align="center">Beyond the keyboard</h2>
 
-🌐 [Portfolio](https://kelvin.staticdomains.app) · 💼 [LinkedIn](https://www.linkedin.com/in/kelvin-imalenowa) · 📅 [Book a chat](https://calendly.com/imalenowa)
+<p align="center">
+  🎧 Music &nbsp; · &nbsp; 🍀 Celtics &nbsp; · &nbsp; 🎮 Gaming &nbsp; · &nbsp; 🎨 Design &nbsp; · &nbsp; 🥾 Hiking
+</p>
+
+<h2 align="center">🤝 Let's connect</h2>
+
+<p align="center"><strong>Let's build something useful.</strong></p>
+
+<p align="center">
+  🌐 <a href="https://kelvin.staticdomains.app">Portfolio</a>
+  &nbsp;&nbsp; · &nbsp;&nbsp;
+  💼 <a href="https://www.linkedin.com/in/kelvin-imalenowa">LinkedIn</a>
+  &nbsp;&nbsp; · &nbsp;&nbsp;
+  📅 <a href="https://calendly.com/imalenowa">Book a chat</a>
+</p>
